@@ -1,0 +1,11 @@
+// RENDER.H - HEADER FOR RENDERING FUNCTION
+
+// MAKE SHURE NOT ALLREADY INCLUDED SOMEWHERE
+#ifndef _RENDER_H_
+#define _RENDER_H_
+
+// RENDER POLYGON FACE
+void draw_face(CAMERA *cam, int face);
+
+#endif
+// END OF FILE
